@@ -101,5 +101,3 @@ Choose an option:
 
 This project is **open-source** and free to use. ❤️
 
-```
-
